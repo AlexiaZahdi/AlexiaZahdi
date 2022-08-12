@@ -2,7 +2,7 @@
 -  Olá,eu sou a @AlexiaZahdi
 -  Estou muito interessada em aprender melhor sobre computação!
 -  Sou muito nova nesta área e estou aprendendo algumas coisas sobre JavaScript
--...
+- 
 - 📫 How to reach me ...
 
 <!---
