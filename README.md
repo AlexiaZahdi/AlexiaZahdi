@@ -3,7 +3,7 @@
 -  Estou muito interessada em aprender melhor sobre computação!
 -  Sou muito nova nesta área e estou aprendendo algumas coisas sobre JavaScript
 -  Quero colaborar aprendendo e ensinando o maximo de conteudos que conseguir! 
--  Se se interessarem e quiserem entrar em contato comigo para conversarmos e aprendermos juntos. 
+-  Se houver interesse e quiserem entrar em contato comigo para conversarmos e aprendermos juntos. 
    
 Irei disponibilizar meu email : goncalves.alexia@escola.pr.gov.br 
 Fico no aguardo do contato de voces! :handshake: :pray:
